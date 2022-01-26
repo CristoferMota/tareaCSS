@@ -1,0 +1,30 @@
+.textoSinColor{
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.textoPlata{
+    text-align: center;
+    background-color: silver;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.textoDerecha{
+    text-align: right;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight:bold;
+}
+
+.red{
+    color: red;
+}
+
+body {
+    background-color: aqua;
+}
